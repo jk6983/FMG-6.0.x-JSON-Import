@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #Script Notes:
 #   Sept 6, 2019
-#   Written by Mark Kellerman, Fortinet Pro Services, mkellerman@fortinet.com
+#   Written by Mark Kellerman
 #       Purpose:  Script Automation using JSON/API Calls directly to FMG
 #       JSON API Calls - based on FMG 6.0.x
 #       rpc-admin enabled account must exist on FMG
