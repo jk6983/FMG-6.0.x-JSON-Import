@@ -4,7 +4,7 @@ FortiManager (FMG) JSON Import for automating the import of objects to support m
 #README File
 
 This python script was written when working on a large government project where the customer did not  have access 
-to their FGTs and we had to migrate a Check Point R80 environment into a FMG instance to then be pushed down to the managed FGTs.
+to their FGTs and we had to migrate a Check Point R80 environment into a FortiManager (FMG) instance to then be pushed down to the managed FGTs.
 
 At the time the Conversion tool did not fully support converting R80, however there were tools available 
 in Check Point to export to spreadsheets.
