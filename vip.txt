@@ -1,0 +1,9 @@
+Name	ExtIP	MappedIP	PortForward	Protocol	ExtPort	MappedPort	Comments
+vip-1.1.1.1	1.1.1.1	10.10.10.1	enable	tcp	9922	22	SSH for vip-1.1.1.1
+vip-1.1.1.2	1.1.1.2	10.10.10.2	enable	tcp	9921	21	FTP for vip-1.1.1.2
+vip-1.1.1.3	1.1.1.3	10.10.10.3	enable	tcp	9980	80	HTTP for vip-1.1.1.3
+vip-1.1.1.4	1.1.1.4	10.10.10.4	enable	tcp	99443	443	HTTPS for vip-1.1.1.4
+vip-1.1.1.5	1.1.1.5	10.10.10.5	disable				
+vip-1.1.1.6	1.1.1.6	10.10.10.6	disable				
+vip-1.1.1.7	1.1.1.7	10.10.10.7	disable				
+vip-1.1.1.8	1.1.1.8	10.10.10.8	disable				

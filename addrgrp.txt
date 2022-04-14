@@ -1,0 +1,6 @@
+Name	Members
+AppleTV-GRP	AppleTV-MBR; AppleTV-LR
+Surveillance-Cams	NestCam-Driveway; Ring-Doorbell; Ring-Patio
+FortinetGear	FMG_172.20.10.220; FGT100D_172.20.10.252
+Media-Entertainment	Plex-Svr
+Storage	NAS-160

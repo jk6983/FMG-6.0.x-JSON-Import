@@ -1,0 +1,14 @@
+Name	Type	StartIP	EndIP	ArpReply	Comments
+ippool-76.99.1.241	overload	76.99.1.241	76.99.1.241	enable	SNAT for 76.99.1.241
+ippool-76.99.1.242	overload	76.99.1.242	76.99.1.242	enable	SNAT for 76.99.1.242
+ippool-76.99.1.243	overload	76.99.1.243	76.99.1.243	enable	SNAT for 76.99.1.243
+ippool-76.99.1.244	overload	76.99.1.244	76.99.1.244	enable	SNAT for 76.99.1.244
+ippool-76.99.1.245	overload	76.99.1.245	76.99.1.245	disable	SNAT for 76.99.1.245
+ippool-76.99.1.246	overload	76.99.1.246	76.99.1.246	disable	SNAT for 76.99.1.246
+ippool-76.99.1.247	overload	76.99.1.247	76.99.1.247	enable	SNAT for 76.99.1.247
+ippool-76.99.1.248	overload	76.99.1.248	76.99.1.248	enable	SNAT for 76.99.1.248
+ippool-76.99.1.249	overload	76.99.1.249	76.99.1.249	disable	SNAT for 76.99.1.249
+ippool-76.99.1.250	overload	76.99.1.250	76.99.1.250	enable	SNAT for 76.99.1.250
+ippool-76.99.1.251	overload	76.99.1.251	76.99.1.251	enable	SNAT for 76.99.1.251
+ippool-76.99.1.252	overload	76.99.1.252	76.99.1.252	enable	SNAT for 76.99.1.252
+ippool-76.99.1.253	overload	76.99.1.253	76.99.1.253	enable	SNAT for 76.99.1.253

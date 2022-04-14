@@ -1,0 +1,47 @@
+Name	Members		
+Email Access 	 DNS;IMAP;IMAPS;POP3;POP3S;SMTP;SMTPS 		
+Web Access 	 DNS;HTTP;HTTPS 		
+Windows AD 	 DCE-RPC;DNS;KERBEROS;LDAP;LDAP_UDP;SAMBA;SMB 		
+Exchange Server 	 DCE-RPC;DNS;HTTPS 		
+Web_Proxy 	 HTTP_proxy;HTTPS_proxy 		
+Web 	 http;https 		
+AD_Dcerpc_services 	 MSExchange_2007 	 tsm_group 	 tcp_1800;tcp_1881;tcp_1880 
+brio 	 hotline_client_5500;http;tcp_50001;tcp_50010 		
+K_Brio 	 brio;https;tcp_50000_DB2 		
+K_Connect-Direct 	 connect_direct_1366;ftp;telnet;tcp_2023_Telvue3 		
+B_Virus 	 Napster_directory_4444;tcp_135;tcp_593;udp_135;udp_8998;nbname_udp_137_;microsoft-ds-udp_445_;nbdatagram_udp_138_;nbsession_139_;tftp_udp_69_;microsoft-ds_445_ 		
+ePACS_services 	 tcp_135;tcp_4001;tcp_4002;tcp_4003;tcp_4004;tcp_4005;tcp_4006;tcp_4009_4057;tcp_4058;tcp_60000_61000;tcp_8189;tcp_9999;tcp_2433;http;StoneBeat-Daemon_3001_;DerSphere_II_tcp_2000_;MS-SQL-Server_1433_ 		
+Service_Blacklist 	 udp_3544 		
+Jumpbox_Services 	 http;ssh;tcp_389_16001_NFC_DBMB;TACACSplus;tcp_61616;tcp-high-ports;tcp_20514;udp_20514;smtp;snmp;udp_12000-12004_IBM_EE;tcp_9100_prt_sockets;udp_389;tcp_3268;tcp_135;udp_135;tcp_137;tcp_3269;tcp_5725;tcp_657;udp_657;sunrpc_111;tcp_111;nfsd;tcp_1023;tcp_56568;udp_56568;tcp_1058;udp_1058;tcp_3901;udp_3901;tcp_8530;tcp_3902;udp_3902;tcp_1059;udp_1059;tcp_32768-65535;udp_32768-65535;dhcp-rep-localmodule;dhcp-req-localmodule;tcp_808;udp_808;tcp_8016;domain-tcp;domain-udp;tcp_1021;tcp_1022;tcp_7080;tcp_16163;tcp_9900-9920;tcp_7443;tcp_2052;udp_3389;tcp_1500-1599;telnet;ftp;ftp-bidir;ftp_data_20;tcp_6160;tcp_1562;tcp_30767;tcp_30768;tcp_8100;tcp_fmmi_train_3200-60000;tcp_1502;tcp_1511;tcp_1508;tcp_1512;tcp_2048;https;HTTP_and_HTTPS_proxy_8080_;lpdw0rm_515_;syslog_514_;microsoft-ds_445_;ssl-v3_;nfsd-tcp_2049_;nbdatagram_udp_138_;ldap-ssl_636_;Kerberos_v5_TCP_88_;ssh_version-2_;nbsession_139_;tftp_udp_69_;pcms1503_and_T.120_;microsoft-ds-udp_445_;nbname_udp_137_;ldap_389_;Remote_Desktop_Protocol_3389_;MS-SQL-Server_1433_;Kerberos_v5_UDP_88_;snmp-trap_162_ 		
+kerberos_ 	 kerberos-tcp;kerberos-udp 		
+Skype_Group_Services 	 tcp_50000-59999;udp_50000-59999 		
+ForeScout_Services_Group 	 snmp-read;ssh;ftp;https;tcp_111;login;tcp_9100_prt_sockets;udp_135;telnet;finger;pop-3;tcp_220;tcp_631;udp_25;tcp_4;http;udp_8080;ssh_version-2_;ldap_389_;ldap-ssl_636_;Kerberos_v5_TCP_88_;nbsession_139_;pptp-tcp_1723_;Kerberos_v5_UDP_88_;microsoft-ds_445_;nbname_udp_137_;lpdw0rm_515_ 		
+Hosting_Services 	 http;https;ssh;tcp_389_16001_NFC_DBMB;TACACSplus;tcp_61616;tcp-high-ports;tcp_20514;udp_20514;smtp;snmp;udp_12000-12004_IBM_EE;tcp_9100_prt_sockets;tcp_3268;tcp_137;tcp_3269;tcp_5725;tcp_657;udp_657;sunrpc_111;tcp_111;nfsd;tcp_1023;tcp_56568;udp_56568;tcp_1058;udp_1058;tcp_3901;udp_3901;tcp_8530;tcp_3902;udp_3902;tcp_1059;udp_1059;tcp_32768-65535;udp_32768-65535;dhcp-rep-localmodule;dhcp-req-localmodule;tcp_808;udp_808;tcp_8016;domain-tcp;domain-udp;tcp_1021;tcp_1022;tcp_7080;tcp_16163;tcp_9900-9920;tcp_7443;tcp_2052;udp_3389;tcp_1500-1599;telnet;ftp;ftp-bidir;ftp_data_20;tcp_6160;tcp_1562;tcp_30767;tcp_30768;tcp_8100;tcp_fmmi_train_3200-60000;tcp_8082-8086;lpdw0rm_515_;Remote_Desktop_Protocol_3389_;ssh_version-2_;nfsd-tcp_2049_;nbsession_139_;tftp_udp_69_;ldap-ssl_636_;snmp-trap_162_;MS-SQL-Server_1433_;pcms1503_and_T.120_;ssl-v3_;syslog_514_;HTTP_and_HTTPS_proxy_8080_ 		
+IPSEC_ 	 IKE;VPN1_IPSEC_encapsulation 		
+FMMI_Cloud_Services 	 http;https;ssh;smtp;udp_3389;ftp;ftp-bidir;ftp_data_20;tcp_fmmi_train_3200-60000;tcp_1129;tcp_1128;tcp_4443;tcp_4443_4447;tcp_3200-3299;tcp_3200_4899;tcp_3600-3602;terminal_server_3389;tcp_3601;tcp_1582;tcp_1585;tcp_1501;tcp_1560;HTTP_and_HTTPS_proxy_8080_;nbsession_139_;nbname_udp_137_;MS-SQL-Server_1433_;nbdatagram_udp_138_;ssh_version-2_;ssl-v3_ 		
+Citrix_metaFrame_ 	 Citrix_ica_2598;http;https;Citrix_ICA_1494_;Citrix_ICA_Browsing_1604_ 		
+ntp_ 	 ntp-tcp;ntp-udp_123_ 		
+nitc_RA_WSB_services_group 	 ftp;https;telnet;terminal_server_3389;ssh_version-2_ 		
+F5_port_grp 	 domain-tcp;domain-udp;Entrust_PKIX-CMP-829;F5_IQuerry-4353;f5_IQuery_UDP_4353;ftp;http;https;IKE;IQuery_245;IQuery_4354;IQuery_4354_upd;j_Run_Connector_8081;ntp-tcp;smtp;snmp;ssh;tcp_17003;tcp_17004;tcp-high-ports;ldap_389_;Entrust-KeyMgmt_709_;ssh_version-2_;ntp-udp_123_;Entrust-Admin-710_ 		
+MS-SQL_ 	 MS-SQL-Monitor_UDP;MS-SQL-Server_UDP;MS-SQL-Monitor_1434_;MS-SQL-Server_1433_ 		
+Entrust-CA_ 	 Entrust-Admin-710_;Entrust-KeyMgmt_709_ 		
+K_P690_Access 	 http;ssh;tcp_50000_DB2;ssh_version-2_ 		
+CIFS_ 	 microsoft-ds_445_ 		
+FMS_ports 	 cashlink_7575;cashlink_8080;cashlink_8585;Real-Audio_cashlink_7070_;Citrix_ICA_1494_;Citrix_ICA_Browsing_1604_ 		
+Hotline_ 	 hotline_client_5500;Hotline_tracker;Hotline_client_5501-5503_ 		
+coop_ora_group 	 tcp_1502;tcp_1505;tcp_1506;tcp_1535;tcp_1563;tcp_1592;tcp_1595;pcms1503_and_T.120_ 		
+PPTP_ 	 pptp-tcp_1723_ 		
+K_TIM_TAM_services_group 	 brio;https;ssh;ssh_version-2_ 		
+StoneBeat_ 	 StoneBeat-Control;snmp;StoneBeat-Daemon_3001_ 		
+K_Virus 	 Napster_directory_4444;tcp_135;tcp_593;udp_135;udp_8998;udp_990-999;nbdatagram_udp_138_;nbsession_139_;microsoft-ds-udp_445_;tftp_udp_69_;microsoft-ds_445_;nbname_udp_137_ 		
+nitc_RA_OSB_services_group 	 http;https;tcp_3000_3018;tcp_647;tcp_9060-9063;tcp_9090;terminal_server_3389;udp_647;ssh_version-2_ 		
+RealPlayer_ 	 rtsp;Real-Audio_cashlink_7070_ 		
+NFS_ 	 nfsd;nfsd-tcp_2049_ 		
+NetMeeting_ 	 H323;ldap_389_ 		
+NBT_ 	 nbdatagram_udp_138_;nbsession_139_;nbname_udp_137_ 		
+K_FS_CPAIS 	 ftp;http;Napster_directory_4444;netstat;Oracle_9iAS_1_tcp_1810;Oracle_9iAS_2_tcp_7778;sqlnet2-1521;sqlnet2-1525;sqlnet2-1526;ssh;tcp_8019;tcp_8900;telnet;Oracle_9iAS_3_tcp_8800;ssh_version-2_;tcp_7777_ 		
+nitc_RA_DMB_services_group 	 ftp;http;https;tcp_1100_1200;tcp_13075;tcp_1400_1600;tcp_14000_17000;tcp_1800_2000;tcp_300_400;tcp_4000_9000;tcp_50000_DB2;tcp_50010;tcp_600_700;terminal_server_3389;ssh_version-2_ 		
+Voice_PVC 	 http;https;SCCP;udp_rtp_1584;SCCPS_2443;SCCPS_2445;tcp_3804;udp_16384-32766;OpenWindows;tcp_4224;tcp_49152-65535;udp_49152-65535;GateCrasher;HTTP_and_HTTPS_proxy_8080_;DerSphere_II_tcp_2000_;tftp_udp_69_ 		
+P2P_File_Sharing_Applications_ 	 Blubster;iMesh;Madster;WinMX;Kazaa_1214_;GoToMyPC_8200_;Hotline_ 		
+Trojan_Services_ 	 Backage;SubSeven-G;SkyDance-T;CrackDown;DaCryptic;DerSphere;GateCrasher;HackaTack_31785;HackaTack_31787;HackaTack_31788;HackaTack_31789;HackaTack_31790;HackaTack_31791;HackaTack_31792;ICKiller;InCommand;Jade;Kaos;Kuang2;Mneah;Multidropper;NoBackO;Port_6667_trojans;RAT;Remote_Storm;RexxRave;Shadyshell;SocketsdesTroie;SubSeven;Terrortrojan;TheFlu;TransScout;Trinoo;UltorsTrojan;WinHole;Xanadu;DerSphere_II_tcp_2000_;lpdw0rm_515_;Freak2k_7001_;Back_Door_Setup_5000_ 		
+Napster_ 	 Napster_Client_6600-6699;Napster_directory_4444;Napster_directory_5555;Napster_directory_6666;Napster_redirector;tcp_7777_ 		

@@ -1,0 +1,6 @@
+No.	Name	Source	Destination	Services	Nat	Ippool	Action	Track
+1	Apple TV	AppleTV-GRP	all	ALL	enable		accept	Log
+2	Surveillance	Surveillance-Cams	all	ALL	enable		accept	Log
+3	FortinetSpecific	FortinetGear	all	HTTPS	enable		accept	Log
+4	Media	Media-Entertainment	all	HTTPS			accept	Log
+5	NAS Related	AppleTV-GRP; Plex-Svr	NAS-160	ALL			accept	Log

@@ -1,0 +1,1384 @@
+Name	Protocol	Port	Comments
+AOL		5190	AOL Instant Messenger. Also used by: ICQ & Apple iChat
+AP-Defender		2626	Defender Authentication service
+archie		1525	Archie Internet Protocol; search for files over FTP servers
+AT-Defender		2626	Defender Authentication service
+Back_Door_Setup_5000_		5000	Also used by:BioNet Lite;Blazer5;Bubbel trojans
+Backage		411	Backage trojan
+BGP		179	Border Gateway Protocol
+biff		512	UNIX biff Protocol; give notice of incoming mail messages
+Bionet-Setup		5000	Also used by: Blazer5 ; Bubbel and Back-door trojans
+block_proxy_2301		2301	added because used in pete
+Blubster		41170	Uses MANOLITO protocol
+bootp		67	Bootstrap Protocol Server; users automatically configured 
+Citrix_1494		1494	
+citrix_AGS_9005		9005	
+citrix_cms_2513		2513	2513
+Citrix_ICA		1494	Citrix ICA general Service.
+Citrix_ICA_1494_		1494	Citrix ICA general Service.
+Citrix_ica_2598		2598	for When session reliability is enabled 
+Citrix_ICA_Browsing		1604	UDP Service for general Citrix browsing
+Citrix_ICA_Browsing_1604_		1604	Tcp Service for general Citrix browsing
+citrix_ima_2512		2512	
+citrix_MSDS_2897		2897	
+CrackDown		4444	CrackDown trojan
+CreativePartnerClnt		455	The Client listening port
+CreativePartnerSrvr		453	The Server listening port
+CTL_2444		2444	
+CU-SeeMe		7648-7652	person-to-person or group discussions videoconference
+DaCryptic		1074	DaCryptic trojan
+DameWare		6129	DameWare Mini Remote Control Protocol
+daytime-tcp		13	Daytime Server Protocol (TCP)
+daytime-udp		13	Daytime Server Protocol (UDP)
+DerSphere		1000	Also used by: Direct Connection;Connecter;Insane Network trojans
+DerSphere_II		2000	Also used by:Insane Network;Last 2000;Remote Explorer 2000;Senna Spy Trojan Generator trojans
+DerSphere_II_tcp_2000_		2000	Also used by:Insane Network;Last 2000;Remote Explorer 2000;Senna Spy Trojan Generator trojans
+dhcp		67	
+dhcp-relay		67	DHCP relay agent
+dhcp-rep-localmodule		68	DHCP reply to enforcement module only
+dhcp-req-localmodule		67	DHCP request from enforcement module only
+Direct_Connect_TCP		411-412	Direct Connect P2P application. Used also by other clients
+Direct_Connect_UDP		411-412	Direct Connect P2P application. Used also by other clients
+discard-tcp		9	Discard Server Protocol (TCP)
+discard-udp		9	Discard Server Protocol (UDP)
+DNP3		20000	DNP3 is a set of communications protocols used between components in process automation systems. Its main use is in utilities such as electric and water companies
+domain-tcp		53	Domain Name System Download
+domain-udp		53	Domain Name System Queries
+E2ECP		18241	Check Point End to End Control Protocol
+earn_9000_9010		9000-9010	all ports used by earn/epic
+EDGE		981	VPN-1 UTM Edge Portal
+eDonkey_4661		4661	eDonkey protocol. Used also by other clients.
+eDonkey_4662		4662	eDonkey protocol. Used also by other clients.
+eDonkey_4665		4665	eDonkey protocol. Used also by other clients.
+Entrust-Admin		710	Entrust CA Administration Service
+Entrust-Admin-710_		710	Entrust CA Administration Service
+Entrust-KeyMgmt		709	Entrust CA Key Management Service
+Entrust-KeyMgmt_709_		709	Entrust CA Key Management Service
+Entrust_Auth_Service_680		680	
+Entrust_Basic_profile_service_640		640	
+Entrust_Mapping_Service_681		681	
+Entrust_Medium_profile_Service_641		641	
+Entrust_PKIX-CMP-829		829	
+exec		512	Remote execution (rexec)
+F5_IQuerry-4353		4353	4353
+f5_IQuery_UDP_4353		4353	
+FIBMGR		2010	Forwarding Information Base Manager - Dynamic Routing Cluster config
+finger		79	UNIX; Finger Protocol
+Freak2k		7001	Also used by: Freak88;NetSnooper Gold trojans
+Freak2k_7001_		7001	Also used by: Freak88;NetSnooper Gold trojans
+FreeTel-outgoing-server		21300	real-time full-duplex voice communication via the Internet-server
+ftp		21	File Transfer Protocol
+ftp-bidir		21	File Transfer Protocol with bi-directional data transfer
+ftp-pasv		21	File Transfer Protocol - PASV mode only
+ftp-port		21	File Transfer Protocol - PORT mode only
+ftp_data_20		20	
+GateCrasher		6970	GateCrasher trojan
+GNUtella_rtr_TCP		6347	Also used by: BearShare; ToadNode; Gnucleus; Xolox; LimeWire
+GNUtella_rtr_UDP		6347	Also used by: BearShare; ToadNode; Gnucleus; Xolox; LimeWire
+GNUtella_TCP		6346	Also used by: BearShare; ToadNode; Gnucleus; Xolox; LimeWire
+GNUtella_UDP		6346	Also used by: BearShare; ToadNode; Gnucleus; Xolox; LimeWire
+gopher		70	The Internet Gopher Protocol
+GoToMyPC		8200	Remote Computer Access & Sharing application; also uses HTTP and HTTPS
+GoToMyPC_8200_		8200	Remote Computer Access & Sharing application; also uses HTTP and HTTPS
+gtp_default		3386	GPRS Tunnelling Protocol
+gtp_mm_v0_default		3386	GTP Mobility Management version 0
+gtp_mm_v1_default		2123	GTP Mobility Management version 1
+gtp_v0_default		3386	GPRS Tunneling Protocol version 0
+gtp_v1_default		2123	GPRS Tunneling Protocol version 1
+gw_cl_1677		1677	GroupWise Client
+gw_cl_1678		1678	groupwise client access
+H323		1720	videoconference transmissions over IP networks
+H323_any		1720	videoconference transmissions over IP networks
+H323_ras		1719	RAS and associated connections (H.323 protocols)
+H323_ras_only		1719	Endpoint to Gatekeeper and Gatekeeper to Gatekeeper communication
+H323_ras_only_		1719	Endpoint to Gatekeeper and Gatekeeper to Gatekeeper communication
+HackaTack_31785		31785	HackaTack
+HackaTack_31787		31787	HackaTack trojan
+HackaTack_31788		31788	HackaTack trojan
+HackaTack_31789		31789	HackaTack trojan
+HackaTack_31790		31790	HackaTack trojan
+HackaTack_31791		31791	HackaTack trojan
+HackaTack_31792		31792	HackaTack trojan
+Hotline_client		5500-5503	Hotline client connections
+hotline_client_5500		5500	
+Hotline_client_5501-5503_		5501-5503	Hotline client connections
+Hotline_tracker		5499	Hotline tracker connections
+http		80	Hypertext Transfer Protocol
+HTTP_and_HTTPS_proxy		8080	
+HTTP_and_HTTPS_proxy_8080_		8080	
+HTTP_proxy		8080	
+https		443	HTTP protocol over TLS/SSL
+HTTPS_proxy		8080	
+icap		1344	
+ICCP		102	ICCP is used by utility organizations throughout the world to provide data exchange over wide area networks (WANs) between utility control centers; utilities; power pools; regional control centers and Non-Utility Generators
+ICKiller		1027	ICKiller
+ICQ_locator		4000	Mirabilis ICQ versions
+ident		113	Identify RCS keyword strings in files
+IKE		500	IPSEC Internet Key Exchange Protocol (formerly ISAKMP/Oakley)
+IKE_NAT_TRAVERSAL		4500	Nat Traversal Protocol
+IKE_NAT_TRAVERSAL_TCP		4500	Nat Traversal Protocol
+IKE_tcp	tcp	500	IPSEC Internet Key Exchange Protocol over TCP
+imap		143	Interactive Mail Access Protocol
+IMAP-SSL		993	SSL encrypted IMAP
+IMAP_7993		7993	
+iMesh		5000	This port also used by many trojans and the upnp service
+InCommand		1029	Also used by: ICQ Nuke 98 trojan
+indeni		8181	Communicate with indeni (www.indeni.com)
+interphone		22555	Vocaltec Internet Phone
+IPSO_Clustering_Mgmt_Protocol		1111	used for distributing configuration changes among cluster members and cluster wide monitoring
+IQuery_245		245	
+IQuery_4354		4354	
+IQuery_4354_upd		4354	
+irc1		6660-6670	Internet Relay Chat Protocol
+irc2		7000	Internet Relay Chat Protocol
+IS411-srvr		6499	
+J_run_connecter_8082		8082	
+j_Run_Connector_8081		8081	
+jabber		5222	Jabber Protocol
+Jade		1024	Also used by: Latinus;NetSpy;RAT trojans and  K Display Manager
+Kaos		1212	Kaos trojan
+KaZaA		1214	FastTrack (KaZaA/Morpheus) P2P Protocol
+Kazaa_1214_		1214	FastTrack (Kazaa/Morpheus) P2P Protocol
+kerberos-tcp		750	secure method for authenticating a request for service
+kerberos-udp		750	secure method for authenticating a request for service
+Kerberos_v5_TCP		88	Kerberos authentication protocol (version 5)
+Kerberos_v5_TCP_88_		88	Kerberos authentication protocol (version 5)
+Kerberos_v5_UDP		88	Kerberos authentication protocol (version 5)
+Kerberos_v5_UDP_88_		88	Kerberos authentication protocol (version 5)
+Kuang2		17300	Kuang2 trojan
+L2TP		1701	Layer 2 Tunneling Protocol
+ldap		389	Lightweight Directory Access Protocol
+ldap-ssl		636	Lightweight Directory Access Protocol over TLS/SSL
+ldap-ssl_636_		636	Lightweight Directory Access Protocol over TLS/SSL
+ldap_389_		389	Lightweight Directory Access Protocol
+ldap_udp		389	LDAP udp service
+login		513	Remote login (rlogin)
+lotus		1352	Lotus iNotes Web Access Protocol
+lpdw0rm		515	Also used by: Ramen trojan and printer service.
+lpdw0rm_515_		515	Also used by: Ramen trojan and printer service.
+Madster		5025	Formerly called Aimster
+Marimba_Netcaster		80	http subservice for QoS Software Blade use; Marimba Castanet Tuner product
+MetaIP-UAT		5004	Check Point Meta IP UAM Client-Server Communication
+MetaIP_GUI_18213		18213	Allow Mgmt from desktop
+MetaIP_Mgr_18214		18214	MetaIP Manager Service
+MGCP_2428		2428	
+mgcp_CA		2727	Supported from version R55W; Media Gateway Control Protocol - Call-Agent port
+mgcp_MG		2427	Supported from version R55W; Media Gateway Control Protocol - Media Gateway port
+microsoft-ds		445	Microsoft CIFS over TCP
+microsoft-ds-udp		445	Microsoft CIFS over UDP
+microsoft-ds-udp_445_		445	Microsoft CIFS over UDP
+microsoft-ds_445_		445	Microsoft CIFS over TCP
+Microsoft_Channels		80	http subservice for QoS Software Blade use; Microsoft Channels
+Mneah		4666	Mneah trojan
+Modbus		502	Modbus is a serial communications protocol that is very popular in connecting industrial electronic devices
+MS-SQL-Monitor		1434	Microsoft SQL Monitor
+MS-SQL-Monitor_1434_		1434	Microsoft SQL Monitor
+MS-SQL-Monitor_UDP		1434	Microsoft-SQL-Monitor_UDP
+MS-SQL-Server		1433	Microsoft SQL Server
+MS-SQL-Server_1433_		1433	Microsoft SQL Server
+MS-SQL-Server_UDP		1433	Microsoft SQL Server
+MSN_Messenger_1863_UDP		1863	Microsoft Network Messenger UDP
+MSN_Messenger_5190		5190	Microsoft Network Messenger
+MSN_Messenger_File_Transfer		6891-6900	Microsoft Network Messenger File Transfer
+MSN_Messenger_Voice		6901	Microsoft Network Messenger Voice communication
+MSNMS		1863	
+MSNP		1863	MSN Messenger
+MSSQL_resolver		1434	MS SQL Sapphire /SQL Slammer Worm
+Multidropper		1035	Multidropper trojan
+MySQL		3306	Supported from version R55W; MySQL database server
+name		42	Host Name Server
+Napster_Client_6600-6699		6600-6699	Napster clients. Also used by: WinMX
+Napster_directory_4444		4444	Napster directory connections
+Napster_directory_5555		5555	Napster directory connections
+Napster_directory_6666		6666	Napster directory connections
+Napster_directory_7777		7777	Napster directory connections
+Napster_directory_8888_primary		8888	Napster directory connections (Primary)
+Napster_redirector		8875	
+nbdatagram		138	NetBios Datagram Service
+nbdatagram_udp_138_		138	NetBios Datagram Service
+nbname		137	NetBios Name Service
+nbname_udp_137_		137	NetBios Name Service
+nbsession		139	NetBios Session Service
+nbsession_139_		139	NetBios Session Service
+NCP		524	Novell NetWare Core Protocol
+NCP_524_		524	Novell NetWare Core Protocol
+netbios-session		139	
+netshow		1755	Microsoft NetShow (Windows Media Player)
+netstat		15	UNIX netstat Protocol; show network status
+NEW-RADIUS		1812	NEW - Remote Authentication Dial-In User Service
+NEW-RADIUS-ACCOUNTING		1813	NEW - Remote Authentication Dial-In User Service accounting
+nfsd		2049	Network File System Daemon over UDP (earlier versions of NFS)
+nfsd-tcp		2049	Network File System Daemon over TCP
+nfsd-tcp_2049_		2049	Network File System Daemon over TCP
+NJEOVERIP_175		175	
+nntp		119	Network News Transfer Protocol
+NoBackO		1201	NoBackO trojan
+ntp-tcp		123	Network Time Protocol (TCP)
+ntp-udp		123	Network Time Protocol (UDP)
+ntp-udp_123_		123	Network Time Protocol (UDP)
+OAS-NameServer		2649	Oracle Application Server (IIOP) NameServer
+OAS-ORB		2651	Oracle Application Server (IIOP) ORB
+OnTime		1622	
+OPC		3480	OPC specifies the communication of real-time plant data between control devices from different manufacturers
+OpenWindows		2000	
+Oracle_9iAS_1_tcp_1810		1810	
+Oracle_9iAS_2_tcp_7778		7778	
+Oracle_9iAS_3_tcp_8800		8800	
+Orbix-1570		1570	IONA Orbix Daemon (IIOP) Port 1570
+Orbix-1571		1571	IONA Orbix Daemon (IIOP) Port 1571
+pcANYWHERE-data		5631	PCs remote access security software; data
+pcANYWHERE-stat		5632	PCs remote access security software; status
+pcms1500		1500	
+pcms1503_and_T.120_		1503	H323; Application sharing protocol
+pcms1504		1504	
+pcms1530-1534		1530-1534	
+pcms1580-1581		1580-1581	
+pcTELECOMMUTE-FileSync		2299	Symantec pcTELECOMMUTE File Synchronization
+Pointcast		80	http subservice for QoS Software Blade use; push web content
+pop-2		109	Post Office Protocol - Version 2
+pop-3		110	Post Office Protocol - Version 3
+POP3S		995	SSL protocol over POP3S
+Port_6667_trojans		6667	Used by: Dark FTP;EGO;Maniac rootkit;Moses;ScheduleAgent;SubSeven;Trinity;The thing;Kaitex;WinSatan trojans.
+PostgreSQL		5432	Supported from version R55W; PostgreSQL database server
+PostgreSQL_5432_		5432	Supported from version R55W; PostgreSQL database server
+pptp-tcp		1723	Point-to-Point Tunneling Protocol; extension of PPP
+pptp-tcp_1723_		1723	Point-to-Point Tunneling Protocol; extension of PPP
+quic		443	Quick UDP Internet Connections
+RADIUS		1645	Remote Authentication Dial-In User Service
+RADIUS-ACCOUNTING		1646	Remote Authentication Dial-In User Service accounting
+RainWall_Command		6374	RainWall high availability daemon
+RainWall_Daemon		6372	RainWall daemons communication
+RainWall_Status		6374	RainWall remote management status
+RainWall_Stop		6373	RainWall monitoring
+RAT		1097-1098	RAT trojan (Remote Administration Tool)
+RDP		259	Check Point VPN-1 FWZ Key Negotiations - Reliable Datagram Protocol
+Real-Audio		7070	RealNetworks PNA Protocol
+Real-Audio_cashlink_7070_		7070	RealNetworks PNA Protocol
+RealSecure		2998	Automatic 'Suspicious Activity Monitoring' activator
+Remote_Desktop_Protocol		3389	Microsoft RDP
+Remote_Desktop_Protocol_3389_		3389	Microsoft RDP
+Remote_Desktop_Protocol_UDP		3389	
+Remote_Storm		1025	Also used by: Fraggle Rock;NetSpy;md5 Backdoor trojans
+RexxRave		1104	RexxRave trojan
+rip		520	Routing Information Protocol
+RIPng		521	Routing Information Protocol for IPv6
+rtp		6970-6999	
+rtsp		554	Real Time Streaming Protocol
+sas_25000-25050		25000-25050	used by SAS
+SCCP		2000	Supported from version R55W; Skinny Client Control Protocol (SCCP)
+SCCPS_2443		2443	
+SCCPS_2445		2445	
+Secure_MSRP_2855		2855	
+Secure_MSRP_2856		2856	
+securid-udp		5500	Token based Authentication service (UDP)
+securidprop		5510	Token based Authentication service (TCP)
+Shadyshell		1337	Shadyshell trojan
+shell		514	Remote shell (rsh)
+shell_514_		514	Remote shell (rsh)
+SIC-TCP		18190-19191	SIC TCP service
+sip		5060	Session Initiation Protocol
+sip-tcp		5060	Session Initiation Protocol over TCP
+sip-tcp_5060_		5060	Session Initiation Protocol over TCP
+sip_5061		5061	Session Initiation Protocol
+sip_any		5060	Session Initiation Protocol
+sip_any-tcp		5060	
+sip_tls_authentication		5061	
+sip_tls_not_inspected		5061	
+SkyDance-T		4000	Also used by: Backdoor trojan
+smb		445	
+smb-udp		138	Simple Network Management Protocol
+smtp		25	Simple Mail Transfer Protocol
+SMTPS		465	SSL protocol over SMTPS
+snmp		161	Simple Network Management Protocol
+snmp-read		161	Simple Network Management Protocol - Read Only
+snmp-tcp		161	Simple Network Management Protocol
+snmp-trap		162	Simple Network Management Protocol Traps
+snmp-trap_162_		162	Simple Network Management Protocol Traps
+SOAP_8191		8191	
+SocketsdesTroie		1	Also used by the: tcpmux service
+sqlnet1		1521	Oracle SQL*Net Version 1
+sqlnet1_1521_		1521	Oracle SQL*Net Version 1
+sqlnet2-1521		1521	part of Oracle SQL*Net Version 2 Services
+sqlnet2-1525		1525	part of Oracle SQL*Net Version 2 Services
+sqlnet2-1526		1526	part of Oracle SQL*Net Version 2 Services
+sqlnet_1521_1526		1521-1526	
+Squid_NTLM		3128	Squid NTLM authentication
+ssh		22	secure shell; encrypted and authenticated rsh
+ssh_version-2_		22	Secure Shell; version 1.x block
+ssh_version_2		22	Secure Shell; version 1.x block
+ssl-v3_		443	SSL version 3; droping anything else.
+ssl_v2		443	
+ssl_v3		443	SSL version 3 and higher
+StoneBeat-Control		3002	Stonesoft StoneBeat Control
+StoneBeat-Daemon		3001	Stonesoft StoneBeat Daemon Heartbeat
+StoneBeat-Daemon_3001_		3001	Stonesoft StoneBeat Daemon Heartbeat
+Streamworks		1558	
+SubSeven		27374	Also used by:Bad Blood;EGO;Lion;Ramen;Seeker;The Saint;Tftloader;Webhead trojans
+SubSeven-G		1243	Also used by: Tiles and Backdoor_g trojans
+sunrpc_111		111	
+SWTP_Gateway		9281	VPN-1 Embedded/SofaWare commands
+SWTP_SMS		9282	VPN-1 embedded / SofaWare Management Server (SMS)
+syslog		514	UNIX syslog Protocol; control system log
+syslog_514_		514	UNIX syslog Protocol; control system log
+T.120		1503	H323; Application sharing protocol
+TACACS		49	Terminal Access Controller Access Control System over UDP
+TACACSplus		49	Terminal Access Controller Access Control System over TCP
+TCP-1350	tcp	1350	For Omni Station
+tcp-3223	tcp	3223	
+tcp-high-ports	tcp	1024-65535	TCP Ports 1024-65535
+tcp13000-15000	tcp	13000-15000	
+tcp30001	tcp	30001	
+tcp59999	tcp	59999	
+tcp_10002	tcp	10002	i711.com text relay support
+tcp_10010	tcp	10010	
+tcp_10020	tcp	10020	
+tcp_102	tcp	102	
+tcp_10200-10220	tcp	10200-10220	
+TCP_10204	tcp	10204	
+tcp_1021	tcp	1021	
+tcp_1022	tcp	1022	
+tcp_1023	tcp	1023	1023
+tcp_1024_5000	tcp	1025-5000	
+tcp_1028	tcp	1028	
+tcp_1037-1038	tcp	1037-1038	
+tcp_1040	tcp	1040	
+tcp_10443	tcp	10443	
+tcp_10444	tcp	10444	
+tcp_1045	tcp	1045	
+tcp_1055	tcp	1055	
+tcp_1057	tcp	1057	
+tcp_1058	tcp	1058	
+tcp_1059	tcp	1059	
+tcp_1068	tcp	1068	
+tcp_1080	tcp	1080	
+tcp_10892	tcp	10892	
+tcp_1093	tcp	1093	
+tcp_1095	tcp	1095	
+tcp_1098	tcp	1098	
+tcp_1099	tcp	1099	
+tcp_1100_1200	tcp	1100-1200	
+tcp_1101	tcp	1101	
+tcp_1102	tcp	1102	
+tcp_1103-1129	tcp	1103-1129	
+tcp_11070	tcp	11070	for remedy to access DB
+tcp_111	tcp	111	
+tcp_1114	tcp	1114	
+tcp_1121	tcp	1121	
+tcp_11251	tcp	11251	
+tcp_1128	tcp	1128	
+tcp_1129	tcp	1129	
+tcp_1143	tcp	1143	
+tcp_11521	tcp	11521	
+tcp_1156	tcp	1156	
+tcp_1159	tcp	1159	
+tcp_1161	tcp	1161	
+tcp_11621	tcp	11621	
+tcp_12000_12004	tcp	12000-12004	
+tcp_1216	tcp	1216	IAM Provisioning Server to Top Secret
+tcp_12209	tcp	12209	12209
+tcp_1224	tcp	1224	
+tcp_1238	tcp	1238	
+tcp_1241	tcp	1241	nessus con to srv
+tcp_1242	tcp	1242	
+tcp_1244	tcp	1244	
+tcp_1250	tcp	1250	
+tcp_1270	tcp	1270	
+tcp_12961	tcp	12961	12961
+tcp_1298	tcp	1298	
+tcp_13000	tcp	13000	
+tcp_13001	tcp	13001	
+tcp_13001-13010	tcp	13001-13010	
+tcp_13075	tcp	13075	
+tcp_1309	tcp	1309	
+tcp_13100	tcp	13100	
+tcp_13120	tcp	13120	
+tcp_13130	tcp	13130	
+tcp_13132	tcp	13132	
+tcp_1315	tcp	1315	
+tcp_1316	tcp	1316	MQseries ?
+tcp_1317	tcp	1317	MQseries ?
+tcp_1318	tcp	1318	MQseries ?
+tcp_1319	tcp	1319	mqseries
+tcp_13200	tcp	13200	
+tcp_13202	tcp	13202	
+tcp_1321	tcp	1321	
+tcp_13279	tcp	13279	
+tcp_1330	tcp	1330	
+tcp_135	tcp	135	
+tcp_13550	tcp	13550	
+tcp_1369	tcp	1369	
+tcp_137	tcp	137	
+tcp_137-138	tcp	137-138	
+tcp_137-139	tcp	137-139	
+tcp_13701	tcp	13701	
+tcp_13720	tcp	13720	
+tcp_13721	tcp	13721	
+tcp_13723	tcp	13723	
+tcp_13724	tcp	13724	
+tcp_1377	tcp	1377	
+tcp_13782	tcp	13782	
+tcp_14000_17000	tcp	14000-17000	
+tcp_1400_1600	tcp	1400-1600	
+tcp_1401	tcp	1401	
+tcp_1403	tcp	1403	
+tcp_14100-14101	tcp	14100-14101	
+tcp_1414	tcp	1414	mqseries
+tcp_1422	tcp	1422	
+tcp_1463	tcp	1463	
+tcp_1468	tcp	1468	
+tcp_1478	tcp	1478	
+tcp_1481	tcp	1481	
+tcp_1500-1560	tcp	1500-1560	
+tcp_1500-1599	tcp	1500-1599	
+tcp_15000-15999	tcp	15000-15999	
+tcp_1501	tcp	1501	Cpais PPACCTD dev &test
+tcp_1502	tcp	1502	ora02 on ares
+tcp_1505	tcp	1505	ora05 on mars
+tcp_1506	tcp	1506	ora06 on ares
+tcp_1507	tcp	1507	
+tcp_1508	tcp	1508	oracle listener
+tcp_1509	tcp	1509	
+tcp_1510	tcp	1510	
+tcp_1511	tcp	1511	
+tcp_1512	tcp	1512	
+tcp_1516	tcp	1516	
+tcp_1520	tcp	1520	
+tcp_1521-1526	tcp	1520-1526	
+tcp_1522	tcp	1522	
+tcp_1523	tcp	1523	
+tcp_1527	tcp	1527	
+tcp_1528	tcp	1528	Cpais
+tcp_1531	tcp	1531	Cpais PPACCTQ Quality Assurance
+tcp_1532	tcp	1532	
+tcp_1535	tcp	1535	ora65 on mars
+tcp_1536	tcp	1536	oracle listener
+tcp_15364	tcp	15364	
+tcp_1555	tcp	1555	
+tcp_1556	tcp	1556	
+tcp_1557	tcp	1557	
+tcp_1560	tcp	1560	
+tcp_1561	tcp	1561	
+tcp_1562	tcp	1562	
+tcp_1563	tcp	1563	ora83 on mars
+tcp_1564	tcp	1564	
+tcp_1565	tcp	1565	oracle listener
+tcp_1567	tcp	1567	
+tcp_1569	tcp	1569	
+tcp_1575	tcp	1575	
+tcp_1580	tcp	1580	
+tcp_1580-1583	tcp	1580-1583	IAM Provisioning Server to Oracle
+tcp_1581	tcp	1581	
+tcp_1582	tcp	1582	
+tcp_1583	tcp	1583	
+tcp_1584	tcp	1584	
+tcp_1585	tcp	1585	
+tcp_1586	tcp	1586	
+tcp_1587	tcp	1587	
+tcp_15871	tcp	15871	
+tcp_1588	tcp	1588	
+tcp_1589	tcp	1589	
+tcp_1590_1640	tcp	1590-1640	
+tcp_1591	tcp	1591	cpais PPACCTP production
+tcp_1592	tcp	1592	ora72 on ares
+tcp_1593	tcp	1593	oracle listener
+tcp_1594	tcp	1594	
+tcp_1595	tcp	1595	ora75 on ares
+tcp_1597	tcp	1597	
+tcp_1598	tcp	1598	oracle listener
+tcp_1599	tcp	1599	
+tcp_16000	tcp	16000	
+tcp_16000-16990	tcp	16000-16990	
+tcp_16001	tcp	16001	
+tcp_1604	tcp	1604	
+tcp_1604-1609	tcp	1604-1609	
+tcp_1606	tcp	1606	
+tcp_1608	tcp	1608	
+tcp_1608_1695	tcp	1608-1695	DB2 ports
+tcp_1616	tcp	1616	
+tcp_16163	tcp	16163	
+TCP_161_concord	tcp	161	
+tcp_162	tcp	162	
+tcp_1645	tcp	1645	
+tcp_1646	tcp	1646	
+tcp_1650	tcp	1650	
+tcp_1650-1657	tcp	1650-1657	
+tcp_1652	tcp	1652	
+tcp_1654	tcp	1654	access to db2
+tcp_1670-1673	tcp	1670-1673	
+tcp_1672	tcp	1672	for db2
+tcp_1676-1677	tcp	1676-1677	
+tcp_1688	tcp	1688	
+tcp_1694-1695	tcp	1694-1695	
+tcp_1700	tcp	1700	
+tcp_17003	tcp	17003	
+tcp_17004	tcp	17004	
+tcp_17005	tcp	17005	
+tcp_17006	tcp	17006	
+tcp_1718	tcp	1718	
+tcp_1719	tcp	1719	
+tcp_17248	tcp	17248	
+tcp_1731	tcp	1731	
+tcp_1741	tcp	1741	
+tcp_1750	tcp	1750	
+tcp_1751	tcp	1751	
+tcp_1755	tcp	1755	
+tcp_17711	tcp	17711	
+tcp_17777-17781	tcp	17777-17781	
+tcp_17781	tcp	17781	
+tcp_1783	tcp	1783	
+tcp_17988	tcp	17988	
+tcp_17990	tcp	17990	
+tcp_17998	tcp	17998	
+tcp_1800	tcp	1800	
+tcp_1800_2000	tcp	1800-2000	
+tcp_1801	tcp	1801	
+tcp_18080	tcp	18080	
+tcp_1812	tcp	1812	
+tcp_1813	tcp	1813	
+tcp_18457	tcp	18457	
+tcp_1858	tcp	1858	
+tcp_1859	tcp	1859	
+tcp_1880	tcp	1880	
+tcp_1881	tcp	1881	
+tcp_1882	tcp	1882	
+tcp_19000	tcp	19000	
+tcp_19091	tcp	19091	
+tcp_19120	tcp	19120	
+tcp_1931	tcp	1931	
+tcp_1935	tcp	1935	
+tcp_1943	tcp	1943	Res One Relay
+tcp_1954	tcp	1954	
+tcp_1984	tcp	1984	
+tcp_1985	tcp	1985	
+tcp_199	tcp	199	
+tcp_20000	tcp	20000	
+tcp_2002	tcp	2002	
+tcp_2012	tcp	2012	
+tcp_2015	tcp	2015	
+tcp_20180	tcp	20180	
+tcp_2020	tcp	2020	
+tcp_2021	tcp	2021	
+tcp_2022	tcp	2022	
+tcp_2023_Telvue3	tcp	2023	
+tcp_2030	tcp	2030	
+tcp_2033	tcp	2033	
+tcp_2034	tcp	2034	
+tcp_20389	tcp	20389	IAM App Server to Provisioning Server
+tcp_20390	tcp	20390	IAM App Server to Provisioning Server
+tcp_2043	tcp	2043	
+tcp_2048	tcp	2048	
+tcp_2051	tcp	2051	
+tcp_20514	tcp	20514	
+tcp_2052	tcp	2052	
+tcp_2055	tcp	2055	
+tcp_2059	tcp	2059	used by bmcr1
+tcp_2060	tcp	2060	BSM service
+tcp_2068_avocent	tcp	2068	avocent port for ip kvm(ffis)
+tcp_20702	tcp	20702	
+tcp_2072	tcp	2072	
+tcp_20763	tcp	20763	
+tcp_2080	tcp	2080	
+tcp_2083	tcp	2083	
+tcp_2121	tcp	2121	
+tcp_21212	tcp	21212	
+tcp_2162	tcp	2162	
+tcp_2166	tcp	2166	
+tcp_2179	tcp	2179	
+tcp_2182	tcp	2182	
+tcp_21938	tcp	21938	
+tcp_220	tcp	220	
+tcp_22024	tcp	22024	
+tcp_2221	tcp	2221	
+tcp_2222	tcp	2222	
+tcp_22233-22236	tcp	22233-22236	
+tcp_2288	tcp	2288	
+tcp_2301_2303	tcp	2301-2303	for sungard floor
+TCP_2302	tcp	2302	CMD 
+tcp_2323	tcp	2323	
+tcp_2326-2486	tcp	2326-2486	
+tcp_2374	tcp	2374	
+tcp_2377	tcp	2377	
+tcp_2401	tcp	2401	
+tcp_2404	tcp	2404	
+tcp_2424	tcp	2424	
+tcp_2433	tcp	2433	
+tcp_2436	tcp	2436	
+tcp_2463	tcp	2463	
+tcp_2484	tcp	2484	
+tcp_25000-25999	tcp	25000-25999	
+tcp_2501	tcp	2501	
+tcp_25206	tcp	25206	
+tcp_2546	tcp	2546	
+tcp_2555	tcp	2555	
+tcp_25732	tcp	25732	
+tcp_26	tcp	26	
+tcp_26024	tcp	26024	
+tcp_2638	tcp	2638	
+tcp_2673	tcp	2673	
+tcp_26745	tcp	26745	
+tcp_27000	tcp	27000	
+tcp_27000_27009	tcp	27000-27009	
+tcp_2701-2702	tcp	2701-2702	
+tcp_27010	tcp	27010	
+tcp_2748	tcp	2748	
+tcp_2776	tcp	2776	
+tcp_2789	tcp	2789	
+tcp_28472	tcp	28472	
+tcp_28910-28930	tcp	28910-28930	
+tcp_29113	tcp	29113	
+tcp_2912	tcp	2912	
+tcp_29310	tcp	29310	
+tcp_2967	tcp	2967	
+tcp_30000	tcp	30000	
+tcp_30000-30001	tcp	30000-30001	
+tcp_30000-30050	tcp	30000-30050	
+tcp_30000-30999	tcp	30000-30999	
+tcp_3000_3018	tcp	3000-3018	omni plus
+tcp_30015	tcp	30015	
+tcp_30031	tcp	30031	
+tcp_3009	tcp	3009	
+tcp_300_400	tcp	300-400	
+tcp_3019	tcp	3019	for TSP
+tcp_3052	tcp	3052	
+tcp_3060	tcp	3060	
+tcp_3067	tcp	3067	
+tcp_3075_orbix	tcp	3075	
+tcp_30767	tcp	30767	
+tcp_30767-30768	tcp	30767-30768	
+tcp_30768	tcp	30768	
+tcp_30771	tcp	30771	
+tcp_3079	tcp	3079	
+tcp_3101	tcp	3101	blackberry
+tcp_3102	tcp	3102	
+tcp_31111	tcp	31111	
+tcp_31111-31119	tcp	31111-31119	
+tcp_31300	tcp	31300	
+tcp_3131	tcp	3131	
+tcp_3132	tcp	3132	
+tcp_3140	tcp	3140	
+tcp_3141	tcp	3141	
+tcp_3181	tcp	3181	for bmc
+tcp_3182	tcp	3182	
+tcp_3183	tcp	3183	
+tcp_3192	tcp	3192	
+tcp_3200	tcp	3200	
+tcp_3200-3202	tcp	3200-3202	
+tcp_3200-3299	tcp	3200-3299	
+tcp_3200_4899	tcp	3200-4899	for FMMI Dr drill
+tcp_3201	tcp	3201	
+tcp_3224	tcp	3224	
+tcp_3260	tcp	3260	
+tcp_3268	tcp	3268	
+tcp_3269	tcp	3269	
+tcp_32768-65535	tcp	32768-65535	
+tcp_32776	tcp	32776	
+tcp_32777	tcp	32777	
+tcp_32785	tcp	32785	
+tcp_32790	tcp	32790	
+tcp_3299	tcp	3299	
+tcp_3300	tcp	3300	
+tcp_3333	tcp	3333	
+tcp_3334-3335	tcp	3334-3335	
+tcp_3343	tcp	3343	
+tcp_33816	tcp	33816	
+tcp_33860	tcp	33860	
+tcp_34107	tcp	34107	
+tcp_3417	tcp	3417	
+tcp_34189	tcp	34189	
+tcp_34200-34300	tcp	34200-34300	
+tcp_3478	tcp	3478	
+tcp_34906	tcp	34906	
+tcp_35179	tcp	35179	
+tcp_35202	tcp	35202	
+tcp_3564	tcp	3564	
+tcp_3600	tcp	3600	
+tcp_3600-3602	tcp	3600-3602	
+tcp_36000-65535	tcp	36000-65535	
+tcp_36002-59999	tcp	36002-59999	
+tcp_3601	tcp	3601	
+tcp_3628	tcp	3628	
+tcp_36396	tcp	36396	
+tcp_36937	tcp	36937	
+tcp_37188	tcp	37188	
+tcp_3772	tcp	3772	
+tcp_3801	tcp	3801	
+tcp_38036	tcp	38036	
+tcp_3804	tcp	3804	
+tcp_38293	tcp	38293	
+tcp_3872	tcp	3872	
+tcp_3873	tcp	3873	
+tcp_389_16001_NFC_DBMB	tcp	389-16001	
+tcp_39000-39100	tcp	39000-39100	
+tcp_3901	tcp	3901	
+tcp_3902	tcp	3902	
+tcp_391-23910_NFC_DB	tcp	391-23910	
+tcp_3972	tcp	3972	
+tcp_4	tcp	4	
+tcp_40000	tcp	40000	
+tcp_40000-50000	tcp	40000-50000	
+tcp_40001	tcp	40001	
+tcp_4000_9000	tcp	4000-9000	
+tcp_4001	tcp	4001	
+tcp_4002	tcp	4002	
+tcp_4003	tcp	4003	
+tcp_4004	tcp	4004	
+tcp_4005	tcp	4005	
+tcp_4006	tcp	4006	
+tcp_4009_4057	tcp	4009-4057	
+tcp_4012	tcp	4012	
+tcp_40125	tcp	40125	
+tcp_4014	tcp	4014	EUA1-D to EPIC
+tcp_4018-4020	tcp	4018-4020	
+tcp_4022	tcp	4022	
+tcp_4025	tcp	4025	
+tcp_4031	tcp	4031	
+tcp_4031-4032	tcp	4031-4032	
+tcp_4032	tcp	4032	
+tcp_4033	tcp	4033	
+tcp_4034	tcp	4034	
+tcp_4058	tcp	4058	
+tcp_4066	tcp	4066	
+tcp_4089	tcp	4089	
+tcp_4105	tcp	4105	IAM Provisioning Server to UNIX
+tcp_41594	tcp	41594	
+tcp_418	tcp	418	
+tcp_4224	tcp	4224	
+tcp_4236	tcp	4236	
+tcp_42416	tcp	42416	
+tcp_42426	tcp	42426	
+tcp_42540	tcp	42540	
+tcp_42605	tcp	42605	
+tcp_427	tcp	427	SLP request
+tcp_42701	tcp	42701	
+tcp_43	tcp	43	
+tcp_43000_gt	tcp	43001-65535	greater than 43000
+tcp_4321	tcp	4321	
+tcp_433	tcp	433	
+tcp_4343	tcp	4343	
+tcp_4345	tcp	4345	
+tcp_4371	tcp	4371	
+tcp_44000-48000	tcp	44000-48000	
+tcp_441	tcp	441	
+tcp_44300	tcp	44300	
+tcp_44332	tcp	44332	
+tcp_4434	tcp	4434	
+tcp_44364	tcp	44364	
+tcp_444	tcp	444	
+tcp_44400	tcp	44400	
+tcp_4443	tcp	4443	
+tcp_4443_4447	tcp	4443-4447	
+tcp_44441	tcp	44441	IAM Policy to Web Server
+tcp_44441_44444	tcp	44441-44444	
+tcp_44442	tcp	44442	IAM Policy Server to Web Server
+tcp_44443	tcp	44443	IAM Policy server to Web Server
+tcp_44444	tcp	44444	sftp to LOC
+tcp_44647	tcp	44647	
+tcp_4477	tcp	4477	
+tcp_44957	tcp	44957	
+tcp_4500	tcp	4500	
+tcp_45000-45003	tcp	45000-45003	
+tcp_4509	tcp	4509	
+tcp_4510	tcp	4510	
+tcp_45133	tcp	45133	
+tcp_4545	tcp	4545	
+tcp_4553	tcp	4553	
+tcp_45580	tcp	45580	
+tcp_45590	tcp	45590	
+tcp_45600_for_r_barr	tcp	45600	
+tcp_46000	tcp	46000	
+tcp_46226	tcp	46226	
+tcp_464	tcp	464	
+tcp_46674	tcp	46674	
+tcp_4742	tcp	4742	
+tcp_4800	tcp	4800	
+tcp_4858	tcp	4858	
+tcp_4890	tcp	4890	
+tcp_4903	tcp	4903	
+tcp_49152-65535	tcp	49152-65535	
+tcp_49154	tcp	49154	
+tcp_49155	tcp	49155	
+tcp_49156	tcp	49156	
+tcp_49157	tcp	49157	
+tcp_49158	tcp	49158	
+tcp_49159	tcp	49159	
+tcp_49208	tcp	49208	
+tcp_49282_49285	tcp	49282-49285	
+tcp_49383_49385	tcp	49383-49385	
+tcp_49414	tcp	49414	
+tcp_4972	tcp	4972	
+tcp_4974	tcp	4974	
+tcp_49842	tcp	49842	
+tcp_4990	tcp	4990	
+tcp_50	tcp	50	ESP
+tcp_5000-7000	tcp	5000-7000	
+tcp_50000-59999	tcp	50000-59999	
+tcp_50000_DB2	tcp	50000	
+tcp_50001	tcp	50001	
+tcp_50002	tcp	50002	
+tcp_50004	tcp	50004	
+tcp_50010	tcp	50010	for michell
+tcp_50013	tcp	50013	
+tcp_50014	tcp	50014	
+tcp_50020	tcp	50020	
+tcp_50100	tcp	50100	
+tcp_50113	tcp	50113	
+tcp_5020	tcp	5020	
+tcp_50200	tcp	50200	
+tcp_50204	tcp	50204	
+tcp_50213	tcp	50213	
+tcp_5022	tcp	5022	
+tcp_50313	tcp	50313	
+tcp_5061	tcp	5061	
+tcp_5062	tcp	5062	
+tcp_5063	tcp	5063	
+tcp_5064	tcp	5064	
+tcp_50641	tcp	50641	
+tcp_5070	tcp	5070	
+tcp_50900	tcp	50900	
+tcp_51	tcp	51	AH
+tcp_5101	tcp	5101	
+tcp_51243	tcp	51243	
+tcp_51346	tcp	51346	
+tcp_51389	tcp	51389	
+tcp_51399	tcp	51399	
+tcp_5168	tcp	5168	
+tcp_52015	tcp	52015	
+tcp_52159	tcp	52159	
+tcp_5222	tcp	5222	
+tcp_5223	tcp	5223	
+tcp_52311	tcp	52311	
+tcp_5250	tcp	5250	
+tcp_5269	tcp	5269	
+tcp_5274	tcp	5274	
+tcp_5282	tcp	5282	for marimba
+tcp_5307	tcp	5307	
+tcp_53568	tcp	53568	
+tcp_5357	tcp	5357	
+tcp_54398	tcp	54398	
+tcp_54477	tcp	54477	
+tcp_54867	tcp	54867	
+tcp_55048	tcp	55048	
+tcp_55658	tcp	55658	
+tcp_5647	tcp	5647	
+tcp_56568	tcp	56568	
+tcp_56637	tcp	56637	
+tcp_5666	tcp	5666	
+tcp_5667	tcp	5667	
+tcp_5671	tcp	5671	
+tcp_56738	tcp	56738	
+tcp_5696	tcp	5696	
+tcp_56964	tcp	56964	
+tcp_57021	tcp	57021	
+tcp_5722	tcp	5722	
+tcp_5723	tcp	5723	
+tcp_5724	tcp	5724	
+tcp_5725	tcp	5725	
+tcp_57395	tcp	57395	57395
+tcp_57780	tcp	57780	
+tcp_57940	tcp	57940	
+tcp_5798	tcp	5798	
+tcp_5799	tcp	5799	
+tcp_58080-58081	tcp	58080-58081	
+tcp_58089	tcp	58089	
+tcp_5814	tcp	5814	
+tcp_58218	tcp	58218	
+tcp_58331	tcp	58331	
+tcp_587	tcp	587	
+tcp_5900	tcp	5900	
+tcp_5901	tcp	5901	
+tcp_593	tcp	593	
+tcp_59531-59532	tcp	59531-59532	
+tcp_59542	tcp	59542	
+tcp_5985	tcp	5985	
+tcp_5986	tcp	5986	
+tcp_5988	tcp	5988	
+tcp_5988-5989	tcp	5988-5989	
+tcp_5989	tcp	5989	
+tcp_5990	tcp	5990	
+tcp_60	tcp	60	
+tcp_60000-60010	tcp	60000-60010	
+tcp_60000_61000	tcp	60000-61000	
+TCP_6001	tcp	6001	
+tcp_60095	tcp	60095	
+tcp_600_700	tcp	600-700	
+tcp_6040	tcp	6040	
+tcp_60464	tcp	60464	
+tcp_6072-6372	tcp	6072-6372	
+tcp_6160	tcp	6160	
+tcp_61613	tcp	61613	
+tcp_61616	tcp	61616	
+tcp_61821	tcp	61821	
+tcp_62716	tcp	62716	
+tcp_62728	tcp	62728	
+tcp_63001-63002	tcp	63001-63002	
+tcp_63006-63010	tcp	63006-63010	
+tcp_63021	tcp	63021	
+tcp_631	tcp	631	
+tcp_63253	tcp	63253	
+tcp_636	tcp	636	secure ldap
+tcp_6400-6410	tcp	6400-6410	
+tcp_6400-6499	tcp	6400-6499	
+tcp_64433	tcp	64433	
+tcp_647	tcp	647	
+tcp_64803	tcp	64803	
+tcp_64904	tcp	64904	
+tcp_654	tcp	654	for nbc PEM server
+tcp_657	tcp	657	
+tcp_67	tcp	67	
+tcp_671	tcp	671	
+tcp_6794-6801	tcp	6794-6801	
+tcp_68	tcp	68	
+tcp_6800	tcp	6800	
+tcp_6801	tcp	6801	
+tcp_6810	tcp	6810	
+tcp_6810-6815	tcp	6810-6815	
+tcp_6891-6901	tcp	6891-6901	
+tcp_69	tcp	69	
+tcp_691	tcp	691	
+tcp_7000-7020	tcp	7000-7020	
+tcp_7001-7005	tcp	7001-7005	
+tcp_7001_7002	tcp	7001-7002	
+tcp_7002	tcp	7002	
+tcp_7003	tcp	7003	
+tcp_7004	tcp	7004	
+tcp_7005	tcp	7005	
+tcp_7006	tcp	7006	
+tcp_7011	tcp	7011	
+tcp_7012	tcp	7012	
+tcp_7013	tcp	7013	
+TCP_7015	tcp	7015	
+tcp_7016	tcp	7016	
+tcp_7017	tcp	7017	
+tcp_7071	tcp	7071	
+tcp_7075	tcp	7075	
+tcp_7080	tcp	7080	
+tcp_7100	tcp	7100	used between groupwise servers
+tcp_7100-7102	tcp	7100-7102	
+tcp_7101-7103	tcp	7101-7103	
+tcp_7102	tcp	7102	used between groupwise servers
+tcp_7105	tcp	7105	
+tcp_7111-7115	tcp	7111-7115	
+tcp_7135	tcp	7135	
+tcp_7150	tcp	7150	
+tcp_7200-7202	tcp	7200-7202	
+tcp_7205	tcp	7205	
+tcp_721	tcp	721	
+tcp_721-731	tcp	721-731	
+tcp_7225	tcp	7225	
+tcp_7236	tcp	7236	
+tcp_7279	tcp	7279	
+tcp_7301	tcp	7301	
+tcp_7337	tcp	7337	
+tcp_7443	tcp	7443	
+tcp_7576	tcp	7576	
+tcp_7594	tcp	7594	
+tcp_7618	tcp	7618	download patches
+tcp_7717	tcp	7717	for bmc
+tcp_7777_	tcp	7777	Napster directory connections
+tcp_7778-7780	tcp	7778-7780	
+tcp_7779	tcp	7779	
+tcp_7782	tcp	7782	
+tcp_7784	tcp	7784	
+tcp_7788	tcp	7788	
+tcp_7796	tcp	7796	
+tcp_7800	tcp	7800	
+tcp_7801	tcp	7801	
+tcp_7802	tcp	7802	
+tcp_7804	tcp	7804	
+tcp_7810-7815	tcp	7810-7815	
+tcp_8	tcp	8	
+tcp_8000	tcp	8000	
+tcp_8001	tcp	8001	for tsp
+tcp_8005	tcp	8005	
+tcp_8007	tcp	8007	
+tcp_8009	tcp	8009	
+tcp_8010	tcp	8010	
+tcp_8011	tcp	8011	
+tcp_8012	tcp	8012	
+tcp_8013	tcp	8013	
+tcp_8014	tcp	8014	
+tcp_8016	tcp	8016	
+tcp_8019	tcp	8019	
+tcp_8021	tcp	8021	
+tcp_8022	tcp	8022	
+tcp_8025	tcp	8025	8025
+tcp_8033	tcp	8033	
+tcp_8041	tcp	8041	
+tcp_8042	tcp	8042	
+tcp_8050	tcp	8050	
+tcp_8057	tcp	8057	
+tcp_808	tcp	808	
+tcp_8082-8086	tcp	8082-8086	
+tcp_8083	tcp	8083	
+tcp_8083_8093	tcp	8083-8093	
+tcp_8089	tcp	8089	
+tcp_8090	tcp	8090	
+tcp_8095	tcp	8095	Cpais Utility
+tcp_8096	tcp	8096	Cpais Utility
+tcp_81	tcp	81	
+tcp_81-90	tcp	81-90	
+tcp_8100	tcp	8100	
+tcp_8101	tcp	8101	
+tcp_8102	tcp	8102	
+tcp_8110	tcp	8110	
+tcp_8140	tcp	8140	
+tcp_8142	tcp	8142	
+tcp_8150	tcp	8150	
+tcp_8172	tcp	8172	
+tcp_818	tcp	818	
+tcp_8189	tcp	8189	
+tcp_8190	tcp	8190	
+tcp_8192_avocent2	tcp	8192	AVocent -port for ip kvm(ffis)
+tcp_8195	tcp	8195	
+tcp_8250	tcp	8250	
+tcp_8250-8255	tcp	8250-8255	
+tcp_8290	tcp	8290	
+tcp_8300	tcp	8300	
+tcp_8301_8303	tcp	8301-8303	for sungard consoles
+tcp_8383	tcp	8383	
+tcp_8400-8404	tcp	8400-8404	
+tcp_8411	tcp	8411	
+tcp_8412	tcp	8412	
+tcp_8421	tcp	8421	
+tcp_8422	tcp	8422	
+tcp_843	tcp	843	
+tcp_8441	tcp	8441	
+tcp_8442	tcp	8442	
+tcp_8443	tcp	8443	
+tcp_8444	tcp	8444	
+tcp_8448	tcp	8448	
+tcp_8452	tcp	8452	
+tcp_8465	tcp	8465	
+tcp_8481	tcp	8481	
+tcp_8482	tcp	8482	
+tcp_8530	tcp	8530	
+tcp_8531	tcp	8531	
+TCP_8600	tcp	8600	
+tcp_8765	tcp	8765	
+tcp_8796	tcp	8796	
+tcp_8801	tcp	8801	
+tcp_8810-8815	tcp	8810-8815	
+tcp_8834	tcp	8834	
+tcp_8834-8836	tcp	8834-8836	
+tcp_8836	tcp	8836	
+tcp_888	tcp	888	
+tcp_8888	tcp	8888	for Marimba
+tcp_8889	tcp	8889	
+tcp_8890	tcp	8890	
+tcp_8891	tcp	8891	
+tcp_8900	tcp	8900	
+TCP_9000	tcp	9000	for savantage
+tcp_9000-9013	tcp	9000-9013	
+tcp_9000-9400	tcp	9000-9400	
+tcp_9001	tcp	9001	
+tcp_9001-9002	tcp	9001-9002	
+tcp_9002	tcp	9002	
+tcp_9003	tcp	9003	
+tcp_9004	tcp	9004	
+tcp_9006	tcp	9006	
+tcp_9010	tcp	9010	
+tcp_9014	tcp	9014	
+tcp_9015	tcp	9015	
+tcp_9016	tcp	9016	
+tcp_9017	tcp	9017	
+tcp_902	tcp	902	
+tcp_9020-9025	tcp	9020-9025	
+tcp_903	tcp	903	
+tcp_9030	tcp	9030	
+tcp_9043	tcp	9043	
+tcp_9045-9048	tcp	9045-9048	
+tcp_9047-9048	tcp	9047-9048	
+tcp_9049	tcp	9049	
+tcp_904_907	tcp	904-907	
+tcp_9060-9063	tcp	9060-9063	
+tcp_9080	tcp	9080	IAM Web server to App Server
+tcp_9080-9099	tcp	9080-9099	
+tcp_9081	tcp	9081	IAM Web server to App Server
+tcp_9081-9082	tcp	9081-9082	
+tcp_9082	tcp	9082	
+tcp_9084	tcp	9084	
+tcp_9089	tcp	9089	
+tcp_9090	tcp	9090	
+tcp_9100-9110	tcp	9100-9110	
+tcp_9100_prt_sockets	tcp	9100	
+tcp_9101	tcp	9101	
+tcp_9180	tcp	9180	
+tcp_9200-9220	tcp	9200-9220	
+tcp_9389	tcp	9389	
+tcp_9400	tcp	9400	
+tcp_9400-9420	tcp	9400-9420	
+tcp_9443	tcp	9443	
+tcp_9444-9445	tcp	9444-9445	
+tcp_9450	tcp	9450	
+tcp_9494	tcp	9494	
+tcp_9501	tcp	9501	
+tcp_9510_9515	tcp	9510-9515	
+tcp_9535	tcp	9535	
+tcp_9549	tcp	9549	
+tcp_9550	tcp	9550	
+tcp_9600	tcp	9600	9600
+tcp_9600-9620	tcp	9600-9620	
+tcp_9621	tcp	9621	
+tcp_9658	tcp	9658	9658
+tcp_97	tcp	97	
+tcp_9700	tcp	9700	
+tcp_9700-9720	tcp	9700-9720	
+tcp_9785	tcp	9785	
+tcp_9800-9820	tcp	9800-9820	
+tcp_989	tcp	989	
+tcp_990	tcp	990	
+tcp_9900	tcp	9900	
+tcp_9900-9920	tcp	9900-9920	
+tcp_9901	tcp	9901	
+tcp_9920	tcp	9920	
+tcp_9921	tcp	9921	
+tcp_9922	tcp	9922	
+tcp_993-995	tcp	993-995	
+tcp_995	tcp	995	
+tcp_9960	tcp	9960	
+tcp_9996	tcp	9996	
+tcp_9997	tcp	9997	
+tcp_9999	tcp	9999	
+tcp_fmmi_train_3200-60000	tcp	3200-60000	
+tcp_ftpdata_special	tcp	1025-65535	
+telnet	tcp	23	Telnet Protocol
+telnet2_5099	tcp	5099	
+terminal_server_3389	tcp	3389	
+Terrortrojan	tcp	3456	Terror trojan
+tftp	tcp	69	Trivial File Transfer Protocol
+tftp_udp_69_	udp	69	Trivial File Transfer Protocol
+TheFlu		5534	TheFlu trojan
+time-tcp	tcp	37	Time Server Protocol (TCP)
+time-udp	udp	37	Time Server Protocol (UDP)
+tls1.0		443	
+tls1.1		443	
+tls1.2		443	
+tns		1520-1530	Simple Mail Transfer Protocol
+TransScout		2004-2005	TransScout trojan
+Trinoo		1524	Trinoo trojan
+tunnel_test		18234	Check Point tunnel testing application
+UA_CS		32640	
+UA_PHONE		32512	
+udp-high-ports	udp	1024-65535	UDP Ports 1024-65535
+udp_1000	udp	1000	
+udp_1000-1999	udp	1000-1999	
+udp_10000	udp	10000	
+udp_10000-49151	udp	10000-49151	
+udp_10000-65535	udp	10000-65535	
+udp_10195	udp	10195	
+udp_1058	udp	1058	
+udp_1059	udp	1059	
+udp_10788	udp	10788	
+udp_1086	udp	1086	
+udp_1087	udp	1087	
+udp_10870	udp	10870	
+udp_1090	udp	1090	
+udp_1095	udp	1095	
+udp_1097	udp	1097	
+udp_1101	udp	1101	
+udp_1102	udp	1102	
+udp_1103-1129	udp	1103-1129	
+udp_1152	udp	1152	
+udp_1153	udp	1153	
+udp_1163	udp	1163	
+udp_1164	udp	1164	
+udp_1165	udp	1165	
+udp_1166	udp	1166	
+udp_1167	udp	1167	
+udp_1168	udp	1168	
+udp_1169	udp	1169	
+udp_1170	udp	1170	
+udp_1194	udp	1194	
+udp_1229	udp	1229	
+udp_1298	udp	1298	
+udp_13000	udp	13000	
+udp_135	udp	135	
+udp_135-139	udp	137-139	
+udp_1364	udp	1364	
+udp_13642	udp	13642	
+udp_1368	udp	1368	
+udp_138-139	udp	138-139	
+udp_139	udp	139	
+udp_13994	udp	13994	
+udp_14247	udp	14247	
+udp_14612	udp	14612	
+udp_15180	udp	15180	
+udp_16000-16990	udp	16000-16990	
+udp_16121	udp	16121	
+udp_16384-32766	udp	16384-32766	
+udp_16500	udp	16500	
+udp_16666	udp	16666	
+udp_1700	udp	1700	
+udp_17412	udp	17412	
+udp_177	udp	177	
+udp_17925	udp	17925	
+udp_1858	udp	1858	
+udp_1882	udp	1882	
+udp_1954	udp	1954	
+udp_1985	udp	1985	
+udp_2000-3999	udp	2000-3999	
+udp_20000-29999	udp	20000-29999	
+udp_20514	udp	20514	
+udp_2052	udp	2052	
+udp_2055	udp	2055	
+udp_2058	udp	2058	
+udp_2059	udp	2059	
+udp_2066	udp	2066	
+udp_2069	udp	2069	
+udp_2082	udp	2082	
+udp_2114	udp	2114	
+udp_2162	udp	2162	
+udp_2179	udp	2179	
+udp_23729	udp	23729	
+udp_2425	udp	2425	
+udp_25	udp	25	
+udp_25536	udp	25536	
+udp_2593	udp	2593	
+udp_2645	udp	2645	CMD
+udp_26740	udp	26740	
+udp_2701-2702	udp	2701-2702	
+udp_2776	udp	2776	
+udp_2777	udp	2777	
+udp_28688	udp	28688	
+udp_28909	udp	28909	
+udp_28934	udp	28934	
+udp_2912	udp	2912	
+udp_29289	udp	29289	
+udp_30000-48999	udp	30000-48999	
+udp_30031	udp	30031	
+udp_3018	udp	3018	
+udp_3050-3060	udp	3050-3060	
+udp_3052	udp	3052	
+udp_30887	udp	30887	
+udp_31048	udp	31048	
+udp_31300	udp	31300	
+udp_31658	udp	31658	
+udp_31669	udp	31669	
+udp_3223	udp	3223	
+udp_3224	udp	3224	
+udp_32590	udp	32590	
+udp_32768-65535	udp	32768-65535	
+udp_32796	udp	32796	
+udp_32989	udp	32989	
+udp_33282	udp	33282	
+udp_33438	udp	33438	
+udp_3389	udp	3389	
+udp_33915	udp	33915	
+udp_34127	udp	34127	
+udp_3478	udp	3478	
+udp_3478-3481	udp	3478-3481	
+udp_3479	udp	3479	
+udp_35001	udp	35001	
+udp_35253	udp	35253	
+udp_3535-3538	udp	3535-3538	
+udp_3544	udp	3544	Teredo Tunneling
+udp_35589	udp	35589	
+udp_36002-59999	udp	36002-59999	
+udp_37351	udp	37351	
+udp_3799	udp	3799	
+udp_3808	udp	3808	
+udp_389	udp	389	
+udp_3901	udp	3901	
+udp_3902	udp	3902	
+udp_4000-5999	udp	4000-5999	
+udp_40000-42999	udp	40000-42999	
+udp_40125	udp	40125	
+UDP_427	udp	427	SLP request
+udp_4313	udp	4313	
+udp_4321	udp	4321	
+udp_43264	udp	43264	
+udp_43455	udp	43455	
+udp_43746	udp	43746	
+udp_44076	udp	44076	
+udp_4449	udp	4449	
+udp_4500	udp	4500	
+udp_464	udp	464	
+udp_47569	udp	47569	
+udp_48135-48483	udp	48135-48483	
+udp_48447	udp	48447	
+udp_48449	udp	48449	
+udp_48450	udp	48450	
+udp_49000-65000	udp	49000-65000	
+udp_4908-4909	udp	4908-4909	
+udp_49152-65535	udp	49152-65535	
+udp_4952	udp	4952	
+udp_50000-59999	udp	50000-59999	
+udp_50084	udp	50084	
+udp_5020	udp	5020	
+udp_5093	udp	5093	
+udp_52084	udp	52084	
+udp_52311	udp	52311	
+udp_524	udp	524	NCP for time syhnchronization
+udp_5250	udp	5250	
+udp_52606	udp	52606	
+udp_53566	udp	53566	
+udp_54635	udp	54635	
+udp_54642	udp	54642	
+udp_5568	udp	5568	
+udp_5570	udp	5570	
+udp_56100-59400	udp	56100-59400	
+udp_56181	udp	56181	
+udp_56568	udp	56568	
+udp_5770	udp	5770	
+udp_60357	udp	60357	
+udp_60450	udp	60450	
+udp_6072-6372	udp	6072-6372	
+udp_60943	udp	60943	
+udp_61660	udp	61660	
+udp_62429	udp	62429	
+udp_631	udp	631	
+udp_6315	udp	6315	
+udp_6343	udp	6343	
+udp_6357	udp	6357	
+udp_636	udp	636	
+udp_647	udp	647	
+udp_65075	udp	65075	
+udp_654	udp	654	
+udp_657	udp	657	
+udp_7001	udp	7001	
+udp_7075	udp	7075	
+udp_8	udp	8	
+udp_8000	udp	8000	
+udp_808	udp	808	
+udp_8080	udp	8080	
+udp_8140	udp	8140	
+udp_8144	udp	8144	
+udp_8267	udp	8267	
+udp_8450	udp	8450	
+udp_8451	udp	8451	
+udp_846	udp	846	
+udp_8998	udp	8998	
+udp_9000	udp	9000	
+udp_902	udp	902	
+udp_904-907	udp	904-907	for ELMS Agents to talk to server
+udp_9238	udp	9238	
+udp_9402	udp	9402	
+udp_9494	udp	9494	
+udp_97	udp	97	
+udp_9710	udp	9710	
+udp_990-999	udp	990-999	
+udp_9900	udp	9900	
+udp_9901	udp	9901	
+udp_9993	udp	9993	
+udp_rtp_1584	udp	1584	
+UltorsTrojan		1234	Also used by: SubSeven Java client
+uucp		540	Unix-to-Unix Copy Program
+vosaic-ctrl		1235	
+vosaic-data		20000-20300	
+VPN1_IPSEC_encapsulation		2746	Check Point VPN-1 SecuRemote IPSEC Transport Encapsulation Protocol
+wais		210	Wide Area Information Servers
+wap_wdp		9200	Wireless Datagram Protocol: a simplified protocol suitable for low bandwidth mobile stations enables a connectionless mode.
+wap_wdp_enc		9202	Wireless Datagram Protocol with Wireless Transport Layer Security
+wap_wtp		9201	Wireless Transaction Protocol: a simplified protocol suitable for low bandwidth mobile stations enables a connection mode.
+wap_wtp_enc		9203	Wireless Transaction Protocol with Wireless Transport Layer Security
+who		513	UNIX who Protocol; who is on the system
+winframe		1494	Allows servers to provide applications and data for attached computer workstations (Windows)
+winframe_		1494	Allows servers to provide applications and data for attached computer workstations (Windows)
+WinHole		1081	WinHole trojan
+WinMX		6257	Also uses Napster ports
+X11		6000-6063	X Window System
+Xanadu		1031	Xanadu trojan
+Yahoo_Messenger_messages		5050	Yahoo Messenger messages
+Yahoo_Messenger_Voice_Chat_TCP		5000-5001	Yahoo Messenger Voice Chat
+Yahoo_Messenger_Voice_Chat_UDP		5000-5010	Yahoo Messenger Voice Chat
+Yahoo_Messenger_Webcams		5100	Yahoo Messenger Webcams video

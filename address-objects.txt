@@ -1,0 +1,7 @@
+Name	IPv4	Mask	Comments
+Surveillance_Net	172.20.30.0	255.255.255.0	
+FortiDeceptor_Net	172.20.40.0	255.255.255.0	
+LAB_LAN	172.20.50.0	255.255.255.0	
+Main_LAN	172.20.10.0	255.255.255.0	
+WLAN_NET	172.30.30.0	255.255.255.0	
+WLAN2_NET	172.40.30.0	255.255.255.0	This is new object
