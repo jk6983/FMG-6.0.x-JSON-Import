@@ -40,9 +40,6 @@ Note the spreadsheets are given above and must be in the same folder as the pyth
 They also must be saved as TAB delimited.
 NOTE:  Also the script currently supports FMG 6.0.x and will need to be modified to support more recent versions of FMG.
 
-A demo video is provided to walk through the use of the script.
-
-
 Written by:
 John Mark Kellerman
 Sept 2019
